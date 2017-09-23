@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.11)
-project(pbuf_test)
+project(external_protobuf)
 
 include(${PROJECT_SOURCE_DIR}/cmake/protogen.cmake)
 
